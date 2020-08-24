@@ -22,3 +22,15 @@ D:\Project\Raiven\DemoText\Demo.DTO\obj\Debug\netcoreapp3.1\Demo.DTO.csproj.Core
 D:\Project\Raiven\DemoText\Demo.DTO\obj\Debug\netcoreapp3.1\Demo.DTO.csproj.CopyComplete
 D:\Project\Raiven\DemoText\Demo.DTO\obj\Debug\netcoreapp3.1\Demo.DTO.dll
 D:\Project\Raiven\DemoText\Demo.DTO\obj\Debug\netcoreapp3.1\Demo.DTO.pdb
+F:\Project\Github\DemoNetCore\Demo.DTO\bin\Debug\netcoreapp3.1\Demo.DTO.deps.json
+F:\Project\Github\DemoNetCore\Demo.DTO\bin\Debug\netcoreapp3.1\Demo.DTO.dll
+F:\Project\Github\DemoNetCore\Demo.DTO\bin\Debug\netcoreapp3.1\Demo.DTO.pdb
+F:\Project\Github\DemoNetCore\Demo.DTO\bin\Debug\netcoreapp3.1\Utility.dll
+F:\Project\Github\DemoNetCore\Demo.DTO\bin\Debug\netcoreapp3.1\Utility.pdb
+F:\Project\Github\DemoNetCore\Demo.DTO\obj\Debug\netcoreapp3.1\Demo.DTO.csprojAssemblyReference.cache
+F:\Project\Github\DemoNetCore\Demo.DTO\obj\Debug\netcoreapp3.1\Demo.DTO.AssemblyInfoInputs.cache
+F:\Project\Github\DemoNetCore\Demo.DTO\obj\Debug\netcoreapp3.1\Demo.DTO.AssemblyInfo.cs
+F:\Project\Github\DemoNetCore\Demo.DTO\obj\Debug\netcoreapp3.1\Demo.DTO.csproj.CoreCompileInputs.cache
+F:\Project\Github\DemoNetCore\Demo.DTO\obj\Debug\netcoreapp3.1\Demo.DTO.csproj.CopyComplete
+F:\Project\Github\DemoNetCore\Demo.DTO\obj\Debug\netcoreapp3.1\Demo.DTO.dll
+F:\Project\Github\DemoNetCore\Demo.DTO\obj\Debug\netcoreapp3.1\Demo.DTO.pdb

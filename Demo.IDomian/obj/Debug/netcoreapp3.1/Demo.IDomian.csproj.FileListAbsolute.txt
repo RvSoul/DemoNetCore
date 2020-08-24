@@ -26,3 +26,17 @@ D:\Project\Raiven\DemoText\Demo.IDomian\obj\Debug\netcoreapp3.1\Demo.IDomian.csp
 D:\Project\Raiven\DemoText\Demo.IDomian\obj\Debug\netcoreapp3.1\Demo.IDomian.csproj.CopyComplete
 D:\Project\Raiven\DemoText\Demo.IDomian\obj\Debug\netcoreapp3.1\Demo.IDomian.dll
 D:\Project\Raiven\DemoText\Demo.IDomian\obj\Debug\netcoreapp3.1\Demo.IDomian.pdb
+F:\Project\Github\DemoNetCore\Demo.IDomian\bin\Debug\netcoreapp3.1\Demo.IDomian.deps.json
+F:\Project\Github\DemoNetCore\Demo.IDomian\bin\Debug\netcoreapp3.1\Demo.IDomian.dll
+F:\Project\Github\DemoNetCore\Demo.IDomian\bin\Debug\netcoreapp3.1\Demo.IDomian.pdb
+F:\Project\Github\DemoNetCore\Demo.IDomian\bin\Debug\netcoreapp3.1\Demo.DTO.dll
+F:\Project\Github\DemoNetCore\Demo.IDomian\bin\Debug\netcoreapp3.1\Utility.dll
+F:\Project\Github\DemoNetCore\Demo.IDomian\bin\Debug\netcoreapp3.1\Demo.DTO.pdb
+F:\Project\Github\DemoNetCore\Demo.IDomian\bin\Debug\netcoreapp3.1\Utility.pdb
+F:\Project\Github\DemoNetCore\Demo.IDomian\obj\Debug\netcoreapp3.1\Demo.IDomian.csprojAssemblyReference.cache
+F:\Project\Github\DemoNetCore\Demo.IDomian\obj\Debug\netcoreapp3.1\Demo.IDomian.AssemblyInfoInputs.cache
+F:\Project\Github\DemoNetCore\Demo.IDomian\obj\Debug\netcoreapp3.1\Demo.IDomian.AssemblyInfo.cs
+F:\Project\Github\DemoNetCore\Demo.IDomian\obj\Debug\netcoreapp3.1\Demo.IDomian.csproj.CoreCompileInputs.cache
+F:\Project\Github\DemoNetCore\Demo.IDomian\obj\Debug\netcoreapp3.1\Demo.IDomian.csproj.CopyComplete
+F:\Project\Github\DemoNetCore\Demo.IDomian\obj\Debug\netcoreapp3.1\Demo.IDomian.dll
+F:\Project\Github\DemoNetCore\Demo.IDomian\obj\Debug\netcoreapp3.1\Demo.IDomian.pdb

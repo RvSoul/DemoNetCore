@@ -1,0 +1,232 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Demo.WebApi</name>
+    </assembly>
+    <members>
+        <member name="T:Demo.WebApi.ApiAttribute.CommonApiExceptionAttribute">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Demo.WebApi.ApiAttribute.CommonApiExceptionAttribute.OnException(Microsoft.AspNetCore.Mvc.Filters.ExceptionContext)">
+            <summary>
+            统一对调用异常信息进行处理，返回自定义的异常信息
+            </summary>
+            <param name="context"></param>
+        </member>
+        <member name="T:Demo.WebApi.ApiAttribute.ApplicationErrorResult">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Demo.WebApi.ApiAttribute.ApplicationErrorResult.#ctor(System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="T:Demo.WebApi.ApiAttribute.ErrorResponse">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Demo.WebApi.ApiAttribute.ErrorResponse.#ctor(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="msg"></param>
+        </member>
+        <member name="P:Demo.WebApi.ApiAttribute.ErrorResponse.Message">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Demo.WebApi.ApiAttribute.ErrorResponse.DeveloperMessage">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Demo.WebApi.ApiAttribute.VldFilter.OnActionExecuting(Microsoft.AspNetCore.Mvc.Filters.ActionExecutingContext)">
+            <summary>
+            执行到action时
+            </summary>
+            <param name="context"></param>
+        </member>
+        <member name="T:Demo.WebApi.Controllers.Base.ApiControllerBase">
+            <summary>
+            /
+            </summary> 
+        </member>
+        <member name="T:Demo.WebApi.Controllers.CompanyController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Demo.WebApi.Controllers.CompanyController.#ctor(Demo.IDomian.IDM.ICompanyDM)">
+            <summary>
+            
+            </summary>
+            <param name="DM"></param>
+        </member>
+        <member name="M:Demo.WebApi.Controllers.CompanyController.GetShigongList(Demo.DTO.CompanyDTO.Request_Shigong)">
+            <summary>
+            获取施工单位列表
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Demo.WebApi.Controllers.CompanyController.AddShigong(Demo.DTO.CompanyDTO.ShigongModel)">
+            <summary>
+            添加施工单位
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Demo.WebApi.Controllers.CompanyController.UpShigong(Demo.DTO.CompanyDTO.ShigongModel)">
+            <summary>
+            修改施工单位
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Demo.WebApi.Controllers.CompanyController.DeShigong(System.Guid)">
+            <summary>
+            删除施工单位
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Demo.WebApi.Controllers.CompanyController.Upload">
+            <summary>
+            上传图片
+            </summary>
+            <returns>成功返回图片URL</returns>
+        </member>
+        <member name="M:Demo.WebApi.Controllers.CompanyController.AddShigongImages(Demo.DTO.CompanyDTO.ShigongImagesModel)">
+            <summary>
+            添加施工单位图片
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Demo.WebApi.Controllers.CompanyController.GetShigongImagesList(System.Guid)">
+            <summary>
+            获取施工单位图片列表
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Demo.WebApi.Controllers.CompanyController.DeShigongImages(System.Guid)">
+            <summary>
+            删除施工单位图片
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Demo.WebApi.Controllers.CompanyController.AddShigongEnclosure(Demo.DTO.CompanyDTO.ShigongEnclosureModel)">
+            <summary>
+            添加施工单位图片
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Demo.WebApi.Controllers.CompanyController.GetShigongEnclosureList(System.Guid)">
+            <summary>
+            获取施工单位图片列表
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Demo.WebApi.Controllers.CompanyController.DeShigongEnclosure(System.Guid)">
+            <summary>
+            删除施工单位图片
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Demo.WebApi.Controllers.TextController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Demo.WebApi.Controllers.TextController.#ctor(Demo.IDomian.IDM.IBasicsDataDM)">
+            <summary>
+            
+            </summary>
+            <param name="DM"></param>
+        </member>
+        <member name="M:Demo.WebApi.Controllers.TextController.GetXianluList">
+            <summary>
+            获取线路列表
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Demo.WebApi.Controllers.TextController.GetXianluList2">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Demo.WebApi.Controllers.TextController.GetBiaoduanList(System.Nullable{System.Guid})">
+            <summary>
+            获取标段列表
+            </summary>
+            <param name="XianluId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Demo.WebApi.Controllers.TextController.GetGongdianList(System.Nullable{System.Guid})">
+            <summary>
+            获取工点列表
+            </summary>
+            <param name="BiaoduanID"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Demo.WebApi.Program">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Demo.WebApi.Program.Main(System.String[])">
+            <summary>
+            
+            </summary>
+            <param name="args"></param>
+        </member>
+        <member name="M:Demo.WebApi.Program.CreateHostBuilder(System.String[])">
+            <summary>
+            
+            </summary>
+            <param name="args"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Demo.WebApi.Startup">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Demo.WebApi.Startup.Configuration">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Demo.WebApi.Startup.Repository">
+            <summary>
+            配置日志
+            </summary>
+        </member>
+        <member name="M:Demo.WebApi.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            
+            </summary>
+            <param name="configuration"></param>
+        </member>
+        <member name="M:Demo.WebApi.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            This method gets called by the runtime. Use this method to add services to the container.
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:Demo.WebApi.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <summary>
+            This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+        </member>
+    </members>
+</doc>

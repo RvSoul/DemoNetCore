@@ -15,3 +15,12 @@ D:\Project\Raiven\DemoText\Utility\obj\Debug\netcoreapp3.1\Utility.csproj.CoreCo
 D:\Project\Raiven\DemoText\Utility\obj\Debug\netcoreapp3.1\Utility.dll
 D:\Project\Raiven\DemoText\Utility\obj\Debug\netcoreapp3.1\Utility.pdb
 D:\Project\Raiven\DemoText\Utility\obj\Debug\netcoreapp3.1\Utility.csprojAssemblyReference.cache
+F:\Project\Github\DemoNetCore\Utility\bin\Debug\netcoreapp3.1\Utility.deps.json
+F:\Project\Github\DemoNetCore\Utility\bin\Debug\netcoreapp3.1\Utility.dll
+F:\Project\Github\DemoNetCore\Utility\bin\Debug\netcoreapp3.1\Utility.pdb
+F:\Project\Github\DemoNetCore\Utility\obj\Debug\netcoreapp3.1\Utility.csprojAssemblyReference.cache
+F:\Project\Github\DemoNetCore\Utility\obj\Debug\netcoreapp3.1\Utility.AssemblyInfoInputs.cache
+F:\Project\Github\DemoNetCore\Utility\obj\Debug\netcoreapp3.1\Utility.AssemblyInfo.cs
+F:\Project\Github\DemoNetCore\Utility\obj\Debug\netcoreapp3.1\Utility.csproj.CoreCompileInputs.cache
+F:\Project\Github\DemoNetCore\Utility\obj\Debug\netcoreapp3.1\Utility.dll
+F:\Project\Github\DemoNetCore\Utility\obj\Debug\netcoreapp3.1\Utility.pdb
