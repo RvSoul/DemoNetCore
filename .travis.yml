@@ -1,0 +1,4 @@
+language: csharp
+solution: FoundModel.sln
+mono: 3.10.0
+dotnet: 3.0
