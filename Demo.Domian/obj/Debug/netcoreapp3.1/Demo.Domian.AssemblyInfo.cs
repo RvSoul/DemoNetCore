@@ -11,13 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-WebApplication1-C8439132-87A5-49D1-B207-0AE18E64A768")]
-[assembly: System.Reflection.AssemblyCompanyAttribute("WebApplication1")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Demo.Domian")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("WebApplication1")]
-[assembly: System.Reflection.AssemblyTitleAttribute("WebApplication1")]
+[assembly: System.Reflection.AssemblyProductAttribute("Demo.Domian")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Demo.Domian")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
