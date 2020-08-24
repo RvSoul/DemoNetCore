@@ -1,0 +1,17 @@
+D:\Project\DemoText\Utility\bin\Debug\netcoreapp3.1\Utility.deps.json
+D:\Project\DemoText\Utility\bin\Debug\netcoreapp3.1\Utility.dll
+D:\Project\DemoText\Utility\obj\Debug\netcoreapp3.1\Utility.AssemblyInfoInputs.cache
+D:\Project\DemoText\Utility\obj\Debug\netcoreapp3.1\Utility.AssemblyInfo.cs
+D:\Project\DemoText\Utility\bin\Debug\netcoreapp3.1\Utility.pdb
+D:\Project\DemoText\Utility\obj\Debug\netcoreapp3.1\Utility.dll
+D:\Project\DemoText\Utility\obj\Debug\netcoreapp3.1\Utility.pdb
+D:\Project\DemoText\Utility\obj\Debug\netcoreapp3.1\Utility.csproj.CoreCompileInputs.cache
+D:\Project\Raiven\DemoText\Utility\bin\Debug\netcoreapp3.1\Utility.deps.json
+D:\Project\Raiven\DemoText\Utility\bin\Debug\netcoreapp3.1\Utility.dll
+D:\Project\Raiven\DemoText\Utility\bin\Debug\netcoreapp3.1\Utility.pdb
+D:\Project\Raiven\DemoText\Utility\obj\Debug\netcoreapp3.1\Utility.AssemblyInfoInputs.cache
+D:\Project\Raiven\DemoText\Utility\obj\Debug\netcoreapp3.1\Utility.AssemblyInfo.cs
+D:\Project\Raiven\DemoText\Utility\obj\Debug\netcoreapp3.1\Utility.csproj.CoreCompileInputs.cache
+D:\Project\Raiven\DemoText\Utility\obj\Debug\netcoreapp3.1\Utility.dll
+D:\Project\Raiven\DemoText\Utility\obj\Debug\netcoreapp3.1\Utility.pdb
+D:\Project\Raiven\DemoText\Utility\obj\Debug\netcoreapp3.1\Utility.csprojAssemblyReference.cache
