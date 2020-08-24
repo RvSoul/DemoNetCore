@@ -1,4 +1,4 @@
 language: csharp
 solution: DemoText.sln
 mono: 3.10.0
-dotnet: 3.0.0
+dotnet: 3.0
