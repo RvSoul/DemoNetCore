@@ -16,3 +16,12 @@ D:\Project\Raiven\DemoText\Demo.Model\obj\Release\netcoreapp3.1\Demo.Model.Assem
 D:\Project\Raiven\DemoText\Demo.Model\obj\Release\netcoreapp3.1\Demo.Model.csproj.CoreCompileInputs.cache
 D:\Project\Raiven\DemoText\Demo.Model\obj\Release\netcoreapp3.1\Demo.Model.dll
 D:\Project\Raiven\DemoText\Demo.Model\obj\Release\netcoreapp3.1\Demo.Model.pdb
+F:\Project\Github\DemoNetCore\Demo.Model\bin\Release\netcoreapp3.1\Demo.Model.deps.json
+F:\Project\Github\DemoNetCore\Demo.Model\bin\Release\netcoreapp3.1\Demo.Model.dll
+F:\Project\Github\DemoNetCore\Demo.Model\bin\Release\netcoreapp3.1\Demo.Model.pdb
+F:\Project\Github\DemoNetCore\Demo.Model\obj\Release\netcoreapp3.1\Demo.Model.csprojAssemblyReference.cache
+F:\Project\Github\DemoNetCore\Demo.Model\obj\Release\netcoreapp3.1\Demo.Model.AssemblyInfoInputs.cache
+F:\Project\Github\DemoNetCore\Demo.Model\obj\Release\netcoreapp3.1\Demo.Model.AssemblyInfo.cs
+F:\Project\Github\DemoNetCore\Demo.Model\obj\Release\netcoreapp3.1\Demo.Model.csproj.CoreCompileInputs.cache
+F:\Project\Github\DemoNetCore\Demo.Model\obj\Release\netcoreapp3.1\Demo.Model.dll
+F:\Project\Github\DemoNetCore\Demo.Model\obj\Release\netcoreapp3.1\Demo.Model.pdb

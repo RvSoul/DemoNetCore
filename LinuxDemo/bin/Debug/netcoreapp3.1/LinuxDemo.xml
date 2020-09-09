@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LinuxDemo</name>
+    </assembly>
+    <members>
+        <member name="T:LinuxDemo.ApiAttribute.CommonApiExceptionAttribute">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:LinuxDemo.ApiAttribute.CommonApiExceptionAttribute.OnException(Microsoft.AspNetCore.Mvc.Filters.ExceptionContext)">
+            <summary>
+            统一对调用异常信息进行处理，返回自定义的异常信息
+            </summary>
+            <param name="context"></param>
+        </member>
+        <member name="T:LinuxDemo.ApiAttribute.ApplicationErrorResult">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:LinuxDemo.ApiAttribute.ApplicationErrorResult.#ctor(System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="T:LinuxDemo.ApiAttribute.ErrorResponse">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:LinuxDemo.ApiAttribute.ErrorResponse.#ctor(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="msg"></param>
+        </member>
+        <member name="P:LinuxDemo.ApiAttribute.ErrorResponse.Message">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:LinuxDemo.ApiAttribute.ErrorResponse.DeveloperMessage">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:LinuxDemo.ApiAttribute.VldFilter.OnActionExecuting(Microsoft.AspNetCore.Mvc.Filters.ActionExecutingContext)">
+            <summary>
+            执行到action时
+            </summary>
+            <param name="context"></param>
+        </member>
+        <member name="T:LinuxDemo.Controllers.Base.ApiControllerBase">
+            <summary>
+            /
+            </summary> 
+        </member>
+        <member name="T:LinuxDemo.Controllers.TextController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:LinuxDemo.Controllers.TextController.#ctor(Demo.IDomian.IDM.IBasicsDataDM)">
+            <summary>
+            
+            </summary>
+            <param name="DM"></param>
+        </member>
+        <member name="M:LinuxDemo.Controllers.TextController.GetXianluList">
+            <summary>
+            获取线路列表
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:LinuxDemo.Controllers.TextController.GetXianluList2">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:LinuxDemo.Controllers.TextController.GetBiaoduanList(System.Nullable{System.Guid})">
+            <summary>
+            获取标段列表
+            </summary>
+            <param name="XianluId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LinuxDemo.Controllers.TextController.GetGongdianList(System.Nullable{System.Guid})">
+            <summary>
+            获取工点列表
+            </summary>
+            <param name="BiaoduanID"></param>
+            <returns></returns>
+        </member>
+        <member name="P:LinuxDemo.Startup.Configuration">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:LinuxDemo.Startup.Repository">
+            <summary>
+            配置日志
+            </summary>
+        </member>
+        <member name="M:LinuxDemo.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            
+            </summary>
+            <param name="configuration"></param>
+        </member>
+        <member name="M:LinuxDemo.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            This method gets called by the runtime. Use this method to add services to the container.
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:LinuxDemo.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <summary>
+            This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+        </member>
+    </members>
+</doc>
