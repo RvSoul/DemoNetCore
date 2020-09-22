@@ -1,0 +1,8 @@
+F:\Project\Github\DemoNetCore\IRpcService\bin\Debug\netcoreapp3.1\IRpcService.deps.json
+F:\Project\Github\DemoNetCore\IRpcService\bin\Debug\netcoreapp3.1\IRpcService.dll
+F:\Project\Github\DemoNetCore\IRpcService\bin\Debug\netcoreapp3.1\IRpcService.pdb
+F:\Project\Github\DemoNetCore\IRpcService\obj\Debug\netcoreapp3.1\IRpcService.AssemblyInfoInputs.cache
+F:\Project\Github\DemoNetCore\IRpcService\obj\Debug\netcoreapp3.1\IRpcService.AssemblyInfo.cs
+F:\Project\Github\DemoNetCore\IRpcService\obj\Debug\netcoreapp3.1\IRpcService.csproj.CoreCompileInputs.cache
+F:\Project\Github\DemoNetCore\IRpcService\obj\Debug\netcoreapp3.1\IRpcService.dll
+F:\Project\Github\DemoNetCore\IRpcService\obj\Debug\netcoreapp3.1\IRpcService.pdb

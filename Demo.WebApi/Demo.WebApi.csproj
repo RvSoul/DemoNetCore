@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-    <DocumentationFile>D:\Project\DemoText\Demo.WebApi\WebApiSwaggerCore.xml</DocumentationFile>
+    <DocumentationFile>F:\Project\Github\DemoNetCore\Demo.WebApi\WebApiSwaggerCore.xml</DocumentationFile>
   </PropertyGroup>
 
   <ItemGroup>
