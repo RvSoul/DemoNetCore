@@ -23,3 +23,4 @@ F:\Project\Github\DemoNetCore\Utility\obj\Debug\netcoreapp3.1\Utility.AssemblyIn
 F:\Project\Github\DemoNetCore\Utility\obj\Debug\netcoreapp3.1\Utility.csproj.CoreCompileInputs.cache
 F:\Project\Github\DemoNetCore\Utility\obj\Debug\netcoreapp3.1\Utility.dll
 F:\Project\Github\DemoNetCore\Utility\obj\Debug\netcoreapp3.1\Utility.pdb
+F:\Project\Github\DemoNetCore\Utility\obj\Debug\netcoreapp3.1\Utility.csprojAssemblyReference.cache

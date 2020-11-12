@@ -7,7 +7,7 @@ namespace Demo.WebApi.Controllers.Base
     /// <summary>
     /// /
     /// </summary> 
-    [CommonApiException]
+    //[CommonApiException]
     public class ApiControllerBase : ControllerBase
     {
 

@@ -6,6 +6,7 @@ using Demo.DTO;
 using Demo.DTO.BasicsDataDTO;
 using Demo.IDomian.IDM;
 using LinuxDemo.Controllers.Base;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Utility;

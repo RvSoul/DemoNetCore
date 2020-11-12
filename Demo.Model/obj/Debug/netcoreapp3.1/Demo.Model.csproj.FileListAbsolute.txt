@@ -23,3 +23,4 @@ F:\Project\Github\DemoNetCore\Demo.Model\obj\Debug\netcoreapp3.1\Demo.Model.Asse
 F:\Project\Github\DemoNetCore\Demo.Model\obj\Debug\netcoreapp3.1\Demo.Model.csproj.CoreCompileInputs.cache
 F:\Project\Github\DemoNetCore\Demo.Model\obj\Debug\netcoreapp3.1\Demo.Model.dll
 F:\Project\Github\DemoNetCore\Demo.Model\obj\Debug\netcoreapp3.1\Demo.Model.pdb
+F:\Project\Github\DemoNetCore\Demo.Model\obj\Debug\netcoreapp3.1\Demo.Model.csprojAssemblyReference.cache

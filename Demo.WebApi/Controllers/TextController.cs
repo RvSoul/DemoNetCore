@@ -7,6 +7,7 @@ using Demo.DTO;
 using Demo.DTO.BasicsDataDTO;
 using Demo.IDomian.IDM;
 using Demo.WebApi.Controllers.Base;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Utility;
 
@@ -36,9 +37,10 @@ namespace Demo.WebApi.Controllers
         /// </summary>
         /// <returns></returns>
         [HttpGet]
-        [Route("GetXianluList")]
+        [Route("GetXianluList")]        
         public ResultEntity<List<XianluDTO>> GetXianluList()
         {
+            //throw new Exception("1111");
             LogUtil.Info("接口：GetXianluList调用。");
             return new ResultEntityUtil<List<XianluDTO>>().Success(dm.GetXianluList(out int count), count);
 

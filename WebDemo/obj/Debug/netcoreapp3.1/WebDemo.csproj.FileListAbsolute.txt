@@ -10,7 +10,6 @@ F:\Project\Github\DemoNetCore\WebDemo\bin\Debug\netcoreapp3.1\DotNetCoreRpc.Serv
 F:\Project\Github\DemoNetCore\WebDemo\obj\Debug\netcoreapp3.1\WebDemo.csprojAssemblyReference.cache
 F:\Project\Github\DemoNetCore\WebDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
 F:\Project\Github\DemoNetCore\WebDemo\bin\Debug\netcoreapp3.1\appsettings.json
-F:\Project\Github\DemoNetCore\WebDemo\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 F:\Project\Github\DemoNetCore\WebDemo\bin\Debug\netcoreapp3.1\WebDemo.exe
 F:\Project\Github\DemoNetCore\WebDemo\bin\Debug\netcoreapp3.1\WebDemo.deps.json
 F:\Project\Github\DemoNetCore\WebDemo\bin\Debug\netcoreapp3.1\WebDemo.runtimeconfig.json
@@ -26,3 +25,4 @@ F:\Project\Github\DemoNetCore\WebDemo\obj\Debug\netcoreapp3.1\staticwebassets\We
 F:\Project\Github\DemoNetCore\WebDemo\obj\Debug\netcoreapp3.1\WebDemo.dll
 F:\Project\Github\DemoNetCore\WebDemo\obj\Debug\netcoreapp3.1\WebDemo.pdb
 F:\Project\Github\DemoNetCore\WebDemo\obj\Debug\netcoreapp3.1\WebDemo.genruntimeconfig.cache
+F:\Project\Github\DemoNetCore\WebDemo\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebDemo.styles.css

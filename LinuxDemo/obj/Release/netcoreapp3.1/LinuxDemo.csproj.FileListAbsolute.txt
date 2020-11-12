@@ -1,6 +1,5 @@
 F:\Project\Github\DemoNetCore\LinuxDemo\bin\Release\netcoreapp3.1\appsettings.Development.json
 F:\Project\Github\DemoNetCore\LinuxDemo\bin\Release\netcoreapp3.1\appsettings.json
-F:\Project\Github\DemoNetCore\LinuxDemo\bin\Release\netcoreapp3.1\Properties\launchSettings.json
 F:\Project\Github\DemoNetCore\LinuxDemo\bin\Release\netcoreapp3.1\LinuxDemo.exe
 F:\Project\Github\DemoNetCore\LinuxDemo\bin\Release\netcoreapp3.1\LinuxDemo.deps.json
 F:\Project\Github\DemoNetCore\LinuxDemo\bin\Release\netcoreapp3.1\LinuxDemo.runtimeconfig.json
@@ -73,3 +72,4 @@ F:\Project\Github\DemoNetCore\LinuxDemo\obj\Release\netcoreapp3.1\staticwebasset
 F:\Project\Github\DemoNetCore\LinuxDemo\obj\Release\netcoreapp3.1\LinuxDemo.dll
 F:\Project\Github\DemoNetCore\LinuxDemo\obj\Release\netcoreapp3.1\LinuxDemo.pdb
 F:\Project\Github\DemoNetCore\LinuxDemo\obj\Release\netcoreapp3.1\LinuxDemo.genruntimeconfig.cache
+F:\Project\Github\DemoNetCore\LinuxDemo\obj\Release\netcoreapp3.1\scopedcss\bundle\LinuxDemo.styles.css
